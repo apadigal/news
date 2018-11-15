@@ -2,7 +2,7 @@ version: 0.2
 env:
   variables:
     CACHE_CONTROL: "86400"
-    S3_BUCKET: news-static-content
+    S3_BUCKET: "codepipeline-eu-west-1-637025074782"
     BUILD_FOLDER: "dist"
     BUILD_ENV: "prod"
 phases:
